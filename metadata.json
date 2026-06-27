@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Projects Hub",
+  "description": "A comprehensive, high-quality projects repository and planning hub for engineering students across EEE, ECE, CSE, Mechanical, and Civil branches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
